@@ -1,1 +1,3 @@
 PehTem adalah sebuah aplikasi berbasis android untuk membooking tempat bagi pelanggan
+
+Anggota pertama: Muhammad Rianzi
