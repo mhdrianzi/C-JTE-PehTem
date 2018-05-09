@@ -6,7 +6,7 @@
     <string name="action_settings">Pengaturan</string>
     <string name="email">Email</string>
     <string name="passowrd">Kata Sandi</string>
-    <string name="login">PehTem</string>
+    <string name="login">Masuk</string>
     <string name="show_pwd">Lihat Kata Sandi</string>
     <string name="hide_pwd">Sembunyikan Kata Sandi</string>
     <string name="forgot">Lupa Kata Sandi?</string>
