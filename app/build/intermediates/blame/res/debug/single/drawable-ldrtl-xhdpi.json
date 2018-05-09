@@ -1,11 +1,27 @@
 [
     {
-        "merged": "C:\\Users\\Sonu\\Documents\\AndroidWorkspace\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "C:\\Users\\Sonu\\.android\\build-cache\\83ce70d2e27e91f606eec9406c0566e88fad1a48\\output\\res\\drawable-ldrtl-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+        "merged": "C:\\Users\\Sonu\\Documents\\AndroidWorkspace\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Sonu\\.android\\build-cache\\83ce70d2e27e91f606eec9406c0566e88fad1a48\\output\\res\\drawable-ldrtl-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
     },
     {
         "merged": "C:\\Users\\ACER\\Downloads\\Compressed\\Login_SignUp_ScreenDesgin_Demo\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png",
         "source": "C:\\Users\\ACER\\.android\\build-cache\\a246d5186a58b946bc10c34b28d3f7d2ec19ddb9\\output\\res\\drawable-ldrtl-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\git\\C-JTE-PehTem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\ACER\\.android\\build-cache\\a246d5186a58b946bc10c34b28d3f7d2ec19ddb9\\output\\res\\drawable-ldrtl-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Sonu\\Documents\\AndroidWorkspace\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Sonu\\.android\\build-cache\\83ce70d2e27e91f606eec9406c0566e88fad1a48\\output\\res\\drawable-ldrtl-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Sonu\\Documents\\AndroidWorkspace\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Sonu\\.android\\build-cache\\83ce70d2e27e91f606eec9406c0566e88fad1a48\\output\\res\\drawable-ldrtl-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\git\\C-JTE-PehTem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\ACER\\.android\\build-cache\\a246d5186a58b946bc10c34b28d3f7d2ec19ddb9\\output\\res\\drawable-ldrtl-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\ACER\\Downloads\\Compressed\\Login_SignUp_ScreenDesgin_Demo\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi\\abc_spinner_mtrl_am_alpha.9.png",
@@ -16,19 +32,19 @@
         "source": "C:\\Users\\ACER\\.android\\build-cache\\a246d5186a58b946bc10c34b28d3f7d2ec19ddb9\\output\\res\\drawable-ldrtl-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Sonu\\Documents\\AndroidWorkspace\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "C:\\Users\\Sonu\\.android\\build-cache\\83ce70d2e27e91f606eec9406c0566e88fad1a48\\output\\res\\drawable-ldrtl-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "C:\\Users\\ACER\\git\\C-JTE-PehTem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\ACER\\.android\\build-cache\\a246d5186a58b946bc10c34b28d3f7d2ec19ddb9\\output\\res\\drawable-ldrtl-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Sonu\\Documents\\AndroidWorkspace\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "C:\\Users\\Sonu\\.android\\build-cache\\83ce70d2e27e91f606eec9406c0566e88fad1a48\\output\\res\\drawable-ldrtl-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\Sonu\\Documents\\AndroidWorkspace\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png",
-        "source": "C:\\Users\\Sonu\\.android\\build-cache\\83ce70d2e27e91f606eec9406c0566e88fad1a48\\output\\res\\drawable-ldrtl-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+        "merged": "C:\\Users\\Sonu\\Documents\\AndroidWorkspace\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Sonu\\.android\\build-cache\\83ce70d2e27e91f606eec9406c0566e88fad1a48\\output\\res\\drawable-ldrtl-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "C:\\Users\\ACER\\Downloads\\Compressed\\Login_SignUp_ScreenDesgin_Demo\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Users\\ACER\\.android\\build-cache\\a246d5186a58b946bc10c34b28d3f7d2ec19ddb9\\output\\res\\drawable-ldrtl-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\git\\C-JTE-PehTem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png",
         "source": "C:\\Users\\ACER\\.android\\build-cache\\a246d5186a58b946bc10c34b28d3f7d2ec19ddb9\\output\\res\\drawable-ldrtl-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
     }
 ]

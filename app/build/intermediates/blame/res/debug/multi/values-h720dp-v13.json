@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Sonu\\Documents\\AndroidWorkspace\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+        "outputFile": "C:\\Users\\ACER\\git\\C-JTE-PehTem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 117
                 },
                 "from": {
-                    "file": "C:\\Users\\Sonu\\.android\\build-cache\\83ce70d2e27e91f606eec9406c0566e88fad1a48\\output\\res\\values-h720dp\\values-h720dp.xml",
+                    "file": "C:\\Users\\ACER\\.android\\build-cache\\a246d5186a58b946bc10c34b28d3f7d2ec19ddb9\\output\\res\\values-h720dp\\values-h720dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -36,6 +36,30 @@
                 },
                 "from": {
                     "file": "C:\\Users\\ACER\\.android\\build-cache\\a246d5186a58b946bc10c34b28d3f7d2ec19ddb9\\output\\res\\values-h720dp\\values-h720dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 294,
+                        "endColumn": 66,
+                        "endOffset": 356
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Sonu\\Documents\\AndroidWorkspace\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "C:\\Users\\Sonu\\.android\\build-cache\\83ce70d2e27e91f606eec9406c0566e88fad1a48\\output\\res\\values-h720dp\\values-h720dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
