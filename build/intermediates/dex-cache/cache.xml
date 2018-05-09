@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ACER\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\ACER\Downloads\Compressed\Login_SignUp_ScreenDesgin_Demo\Login_SignUp_ScreenDesgin_Demo\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_ea853f019d8297720e34316b869e6f621368e266.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ACER\.android\build-cache\a246d5186a58b946bc10c34b28d3f7d2ec19ddb9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\ACER\Downloads\Compressed\Login_SignUp_ScreenDesgin_Demo\Login_SignUp_ScreenDesgin_Demo\app\build\intermediates\pre-dexed\debug\classes_89a97cff10053e7b05d107be3e3de5c4bef2fd1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ACER\.android\build-cache\0abd4af81222aafe5f3055de95065c3e78833dec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\ACER\Downloads\Compressed\Login_SignUp_ScreenDesgin_Demo\Login_SignUp_ScreenDesgin_Demo\app\build\intermediates\pre-dexed\debug\classes_1a4a7773951e5a038abaa1a45d52e0617771f927.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ACER\.android\build-cache\0abd4af81222aafe5f3055de95065c3e78833dec\output\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\ACER\Downloads\Compressed\Login_SignUp_ScreenDesgin_Demo\Login_SignUp_ScreenDesgin_Demo\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_94833745454383ba5c1feb61776a825a305898f5.jar" />
+    </item>
+
+</items>
