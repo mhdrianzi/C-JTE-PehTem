@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PehTem</string>
+    <string name="hello_world">Hallo!</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="email">Email</string>
+    <string name="passowrd">Kata Sandi</string>
+    <string name="login">Masuk</string>
+    <string name="show_pwd">Lihat Kata Sandi</string>
+    <string name="hide_pwd">Sembunyikan Kata Sandi</string>
+    <string name="forgot">Lupa Kata Sandi?</string>
+    <string name="closebutton">Close Button for Activity</string>
+    <string name="newUser">Belum Daftar? Daftar disini.</string>
+    <string name="fullName">Nama Lengkapa</string>
+    <string name="mobileNumber">Nomor Telpon</string>
+    <string name="location">Tempat Tinggal</string>
+    <string name="confirmPassword">Konfirmasi Kata Sandi</string>
+    <string name="terms_conditions">Dengan klik sign up maka anda setuju dengan segala syarat dan ketentuan.</string>
+    <string name="signUp">Daftar</string>
+    <string name="already_user">Sudah punya akun? Klik disini.</string>
+    <string name="registered_emailid">Masukkan email anda yg terdaftar dibawah ini:</string>
+    <string name="submit">Masukkan</string>
+    <string name="back">Kembali</string>
+
+</resources>
